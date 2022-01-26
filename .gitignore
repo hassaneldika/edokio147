@@ -1,0 +1,11 @@
+/vendor
+/Video
+.env
+/app/vendor
+/Admin/Posts Images
+/Admin/Uploaded Files
+/Uploaded Images
+app/Admin/Posts Images
+App/Admin/Uploaded Files
+App/Uploaded Images
+App/Video
